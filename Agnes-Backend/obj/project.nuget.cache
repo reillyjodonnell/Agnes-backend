@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gQoV4G6N/17kR8ajMv8AfnEfU4yNKY5e2Kx8H8m11O/wLllC3gFasKbwPpRqVbKs4Tfcsr/YZz7Z7cid3JmNCg==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\Agnes-Backend\\Agnes-Backend\\Agnes-Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\reill\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.14\\microsoft.visualstudio.azure.containers.tools.targets.1.10.14.nupkg.sha512"
+  ],
+  "logs": []
+}
